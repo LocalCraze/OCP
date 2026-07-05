@@ -2,7 +2,8 @@
 
 ## Fields & Locations
 
-<!-- Field names, addresses, parking notes -->
+- **Brea High School — JB Softball Field**: Tue/Thu field practices (fall 2026)
+- **Mr. Cages, Placentia**: Wednesday batting practice (fall 2026)
 
 ## Equipment
 

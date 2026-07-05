@@ -11,6 +11,14 @@ Working plan to pitch to the coaches. Landing page: `fall-2026/landing-page.html
   everyone gets reps and no tournament goes short-handed.
 - All 22 practice together: 2 field practices/week + 4 cage sessions/month.
 
+## Practice schedule
+
+Practices start the week of **August 15, 2026** (first field practice Tue, Aug 18):
+
+- **Tuesdays 5:00 PM** — field practice @ Brea High School, JB Softball Field
+- **Wednesdays (time TBD)** — batting @ Mr. Cages, Placentia
+- **Thursdays 5:00 PM** — field practice @ Brea High School, JB Softball Field
+
 ## Rosters
 
 See `roster/ROSTER.md`. Summary:
@@ -54,6 +62,7 @@ See `roster/ROSTER.md`. Summary:
 ## Open items
 
 - [ ] Down payment amount + breakdown
+- [ ] Wednesday cage time at Mr. Cages
 - [ ] Tournament dates (Eric providing)
 - [ ] Confirm coach list / number of exempt coach kids
 - [ ] Recruit: 2 players for Navy, 8 for Gray

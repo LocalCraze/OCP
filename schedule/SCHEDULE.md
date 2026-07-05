@@ -17,6 +17,13 @@
 
 <!-- Tournament names, dates, locations, formats -->
 
-## Practices
+## Practices (Fall 2026)
 
-<!-- Recurring practice days/times and locations -->
+Practices start the week of **August 15, 2026** (first field practice
+Tue, Aug 18). All 22 players practice together.
+
+| Day | Time | What | Where |
+|---|---|---|---|
+| Tuesday | 5:00 PM | Field practice | Brea High School — JB Softball Field |
+| Wednesday | TBD | Batting / cage work | Mr. Cages, Placentia |
+| Thursday | 5:00 PM | Field practice | Brea High School — JB Softball Field |
