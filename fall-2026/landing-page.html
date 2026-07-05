@@ -358,6 +358,20 @@ h2 + .sub { color: var(--ink-soft); margin: 0 0 28px; max-width: 44em; }
 .roster-card.navy .badge { background: rgba(250, 250, 247, 0.14); color: #fff; border: 1px solid rgba(250, 250, 247, 0.35); }
 .roster-card.gray .badge { background: var(--gray-chip); color: #fff; }
 
+.ptag {
+  flex: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 4px;
+  display: grid;
+  place-items: center;
+  font-family: 'Oswald', "Arial Narrow", sans-serif;
+  font-weight: 600;
+  font-size: 11.5px;
+  background: var(--stitch);
+  color: #fff;
+}
+
 .players .pos {
   margin-left: auto;
   font-family: 'Oswald', "Arial Narrow", sans-serif;
@@ -627,21 +641,21 @@ a { color: inherit; }
     <div class="eyebrow section-eyebrow">The rosters</div>
     <h2>Navy &amp; Gray</h2>
     <p class="sub">Built from our 9U squad plus targeted additions. Numbers carry over
-    from the spring roster.</p>
+    from the spring roster. A red <strong>P</strong> marks players who pitch.</p>
     <div class="rosters">
       <div class="roster-card navy">
         <h3>Navy Roster</h3>
         <div class="count">9 committed · 2 open spots</div>
         <ul class="players">
-          <li><span class="badge">5</span><span class="name">Luke N.</span><span class="pos">First base</span></li>
-          <li><span class="badge">3</span><span class="name">Cade G.</span><span class="pos">Shortstop</span></li>
+          <li><span class="badge">5</span><span class="name">Luke N.</span><span class="ptag" title="Pitches">P</span><span class="pos">First base</span></li>
+          <li><span class="badge">3</span><span class="name">Cade G.</span><span class="ptag" title="Pitches">P</span><span class="pos">Shortstop</span></li>
           <li><span class="badge">17</span><span class="name">Colton K.</span><span class="pos">First base</span></li>
-          <li><span class="badge">8</span><span class="name">Jameson L.</span><span class="pos">Second base</span></li>
-          <li><span class="badge">4</span><span class="name">Knox P.</span><span class="pos">Third base</span></li>
-          <li><span class="badge">16</span><span class="name">Parker T.</span><span class="pos">Center field</span></li>
+          <li><span class="badge">8</span><span class="name">Jameson L.</span><span class="ptag" title="Pitches">P</span><span class="pos">Second base</span></li>
+          <li><span class="badge">4</span><span class="name">Knox P.</span><span class="ptag" title="Pitches">P</span><span class="pos">Third base</span></li>
+          <li><span class="badge">16</span><span class="name">Parker T.</span><span class="ptag" title="Pitches">P</span><span class="pos">Center field</span></li>
           <li><span class="badge">23</span><span class="name">Rhett R.</span><span class="pos">Left field</span></li>
-          <li><span class="badge">1</span><span class="name">Ryder L.</span><span class="pos">Shortstop</span></li>
-          <li><span class="badge">14</span><span class="name">Sterling B.</span><span class="pos">Catcher</span></li>
+          <li><span class="badge">1</span><span class="name">Ryder L.</span><span class="ptag" title="Pitches">P</span><span class="pos">Shortstop</span></li>
+          <li><span class="badge">14</span><span class="name">Sterling B.</span><span class="ptag" title="Pitches">P</span><span class="pos">Catcher</span></li>
           <li class="open"><span class="badge">?</span><span class="name">Recruiting</span><span class="pos">Catcher / pitcher</span></li>
           <li class="open"><span class="badge">?</span><span class="name">Recruiting</span><span class="pos">Pitcher / outfielder</span></li>
         </ul>
@@ -652,9 +666,9 @@ a { color: inherit; }
         <h3>Gray Roster</h3>
         <div class="count">3 committed · 8 open spots</div>
         <ul class="players">
-          <li><span class="badge">9</span><span class="name">Jameson W.</span><span class="pos">First base</span></li>
-          <li><span class="badge">12</span><span class="name">Dean T.</span><span class="pos">Center field</span></li>
-          <li><span class="badge">·</span><span class="name">Nick B. <small>(new)</small></span><span class="pos">Shortstop</span></li>
+          <li><span class="badge">9</span><span class="name">Jameson W.</span><span class="ptag" title="Pitches">P</span><span class="pos">First base</span></li>
+          <li><span class="badge">12</span><span class="name">Dean T.</span><span class="ptag" title="Pitches">P</span><span class="pos">Center field</span></li>
+          <li><span class="badge">·</span><span class="name">Nick B. <small>(new)</small></span><span class="ptag" title="Pitches">P</span><span class="pos">Shortstop</span></li>
           <li class="open"><span class="badge">?</span><span class="name">8 roster spots open — recruiting</span></li>
         </ul>
         <div class="need">The growth roster: three committed players and eight open

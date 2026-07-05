@@ -21,17 +21,17 @@ Source: team app screenshots, "OC Premier 9U".
 
 ## Fall 2026 — Navy Roster (9 of 11)
 
-| # | Player | Position |
-|---|---|---|
-| 5 | Luke N. | First base |
-| 3 | Cade G. | Shortstop |
-| 17 | Colton K. | First base |
-| 8 | Jameson L. | Second base |
-| 4 | Knox P. | Third base |
-| 16 | Parker T. | Center field |
-| 23 | Rhett R. | Left field |
-| 1 | Ryder L. | Shortstop |
-| 14 | Sterling B. | Catcher |
+| # | Player | Position | Pitches |
+|---|---|---|---|
+| 5 | Luke N. | First base | P |
+| 3 | Cade G. | Shortstop | P |
+| 17 | Colton K. | First base | |
+| 8 | Jameson L. | Second base | P |
+| 4 | Knox P. | Third base | P |
+| 16 | Parker T. | Center field | P |
+| 23 | Rhett R. | Left field | |
+| 1 | Ryder L. | Shortstop | P |
+| 14 | Sterling B. | Catcher | P |
 
 **Recruiting needs (+2):**
 - 1× catcher/pitcher
@@ -39,11 +39,11 @@ Source: team app screenshots, "OC Premier 9U".
 
 ## Fall 2026 — Gray Roster (3 of 11)
 
-| # | Player | Position |
-|---|---|---|
-| 9 | Jameson W. | First base |
-| 12 | Dean T. | Center field |
-| — | Nick B. (new) | Shortstop |
+| # | Player | Position | Pitches |
+|---|---|---|---|
+| 9 | Jameson W. | First base | P |
+| 12 | Dean T. | Center field | P |
+| — | Nick B. (new) | Shortstop | P |
 
 **Recruiting needs: +8 players** to reach 11.
 
