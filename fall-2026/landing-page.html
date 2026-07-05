@@ -366,11 +366,13 @@ h2 + .sub { color: var(--ink-soft); margin: 0 0 28px; max-width: 44em; }
   display: grid;
   place-items: center;
   font-family: 'Oswald', "Arial Narrow", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 11.5px;
-  background: var(--stitch);
-  color: #fff;
+  border: 1px solid;
 }
+
+.roster-card.navy .ptag { color: #a9c9e6; border-color: rgba(169, 201, 230, 0.5); }
+.roster-card.gray .ptag { color: #5583ad; border-color: rgba(85, 131, 173, 0.45); }
 
 .players .pos {
   margin-left: auto;
@@ -641,7 +643,7 @@ a { color: inherit; }
     <div class="eyebrow section-eyebrow">The rosters</div>
     <h2>Navy &amp; Gray</h2>
     <p class="sub">Built from our 9U squad plus targeted additions. Numbers carry over
-    from the spring roster. A red <strong>P</strong> marks players who pitch.</p>
+    from the spring roster. A small <strong>P</strong> marks players who pitch.</p>
     <div class="rosters">
       <div class="roster-card navy">
         <h3>Navy Roster</h3>
