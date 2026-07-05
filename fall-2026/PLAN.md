@@ -9,14 +9,16 @@ Working plan to pitch to the coaches. Landing page: `fall-2026/landing-page.html
 - Both rosters play tournaments, **alternating weekends** — Navy one week,
   Gray the next. Players fill in gaps on the other roster as needed, so
   everyone gets reps and no tournament goes short-handed.
-- All 22 practice together: 2 field practices/week + 4 cage sessions/month.
+- All 22 practice together, three times a week: twice on the field, once in
+  the cages for batting.
 
 ## Practice schedule
 
 Practices start the week of **August 15, 2026** (first field practice Tue, Aug 18):
 
 - **Tuesdays 5:00 PM** — field practice @ Brea High School, JB Softball Field
-- **Wednesdays (time TBD)** — batting @ Mr. Cages, Placentia
+- **Wednesdays** — batting @ Mr. Cages, Placentia; players assigned to
+  batting groups, each group with a set time
 - **Thursdays 5:00 PM** — field practice @ Brea High School, JB Softball Field
 
 ## Rosters
@@ -25,7 +27,7 @@ See `roster/ROSTER.md`. Summary:
 
 - **Navy (9 committed, need +2):** Luke N., Cade G., Colton K., Jameson L.,
   Knox P., Parker T., Rhett R., Ryder L., Sterling B.
-  Needs: a catcher/pitcher and a pitcher/fielder.
+  Needs: a catcher/pitcher and a pitcher/outfielder.
 - **Gray (3 committed, need +8):** Jameson W., Dean T., Nick B. (new).
 - **Taking fall off:** Grayson C.
 
@@ -46,7 +48,7 @@ See `roster/ROSTER.md`. Summary:
 - Coaches run the practices, so **coaches' kids pay no monthly practice fee**.
 - With 22 rostered and ~5 coach kids, **17 paying players × $225/month = $3,825**
   → covers the $3,550 with a ~$275/month buffer.
-- The $225 covers 2 weekly field practices + 4 cage practices per month.
+- The $225 covers three practices a week: Tue/Thu on the field, Wed in the cages.
 
 ### Payment schedule
 
@@ -62,7 +64,7 @@ See `roster/ROSTER.md`. Summary:
 ## Open items
 
 - [ ] Down payment amount + breakdown
-- [ ] Wednesday cage time at Mr. Cages
+- [ ] Wednesday batting group assignments + time slots
 - [ ] Tournament dates (Eric providing)
 - [ ] Confirm coach list / number of exempt coach kids
 - [ ] Recruit: 2 players for Navy, 8 for Gray

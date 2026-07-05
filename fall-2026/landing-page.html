@@ -358,6 +358,19 @@ h2 + .sub { color: var(--ink-soft); margin: 0 0 28px; max-width: 44em; }
 .roster-card.navy .badge { background: rgba(250, 250, 247, 0.14); color: #fff; border: 1px solid rgba(250, 250, 247, 0.35); }
 .roster-card.gray .badge { background: var(--gray-chip); color: #fff; }
 
+.players .pos {
+  margin-left: auto;
+  font-family: 'Oswald', "Arial Narrow", sans-serif;
+  font-weight: 500;
+  font-size: 12px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.roster-card.navy .pos { color: var(--navy-card-sub); }
+.roster-card.gray .pos { color: var(--gray-card-sub); }
+
 .players .open { opacity: 0.9; }
 .players .open .badge { background: transparent; border: 1.5px dashed currentColor; color: inherit; }
 .players .open .name { font-style: italic; }
@@ -539,7 +552,7 @@ a { color: inherit; }
     <div class="scoreboard">
       <div class="cell"><div class="num">22</div><div class="lbl">Rostered players</div></div>
       <div class="cell"><div class="num">2×11</div><div class="lbl">Navy + Gray rosters</div></div>
-      <div class="cell"><div class="num">2 + 4</div><div class="lbl">Field practices/wk + cages/mo</div></div>
+      <div class="cell"><div class="num">3</div><div class="lbl">Practices a week — 2 field, 1 cages</div></div>
       <div class="cell"><div class="num">~2</div><div class="lbl">Tournaments/mo per roster</div></div>
     </div>
   </div>
@@ -555,7 +568,7 @@ a { color: inherit; }
       <div class="step">
         <h3>Split into two rosters</h3>
         <p>Navy and Gray, about 11 players each. Everyone practices together —
-        two field practices a week plus four cage sessions a month.</p>
+        three times a week: twice on the field, once in the cages for batting.</p>
       </div>
       <div class="step">
         <h3>Alternate weekends</h3>
@@ -592,8 +605,8 @@ a { color: inherit; }
       </div>
       <div class="day-card cage">
         <div class="day">Wednesdays</div>
-        <div class="time">Batting · Time TBD</div>
-        <div class="what">Cage work</div>
+        <div class="time">Batting · By group</div>
+        <div class="what">Cage work — players assigned to batting groups, each with a set time</div>
         <div class="where">Mr. Cages, Placentia</div>
       </div>
       <div class="day-card field">
@@ -603,9 +616,9 @@ a { color: inherit; }
         <div class="where">Brea High School — JB Softball Field</div>
       </div>
     </div>
-    <p class="start-note">That's the <strong>two field practices a week and four cage
-    sessions a month</strong> covered by the $225 practice fee — weekly Wednesdays at
-    the cages work out to four per month.</p>
+    <p class="start-note"><strong>Three practices a week, every week</strong> — Tuesday
+    and Thursday on the field, Wednesday in the cages. All of it covered by the $225
+    monthly practice fee.</p>
   </div>
 </section>
 
@@ -620,17 +633,17 @@ a { color: inherit; }
         <h3>Navy Roster</h3>
         <div class="count">9 committed · 2 open spots</div>
         <ul class="players">
-          <li><span class="badge">5</span><span class="name">Luke N.</span></li>
-          <li><span class="badge">3</span><span class="name">Cade G.</span></li>
-          <li><span class="badge">17</span><span class="name">Colton K.</span></li>
-          <li><span class="badge">8</span><span class="name">Jameson L.</span></li>
-          <li><span class="badge">4</span><span class="name">Knox P.</span></li>
-          <li><span class="badge">16</span><span class="name">Parker T.</span></li>
-          <li><span class="badge">23</span><span class="name">Rhett R.</span></li>
-          <li><span class="badge">1</span><span class="name">Ryder L.</span></li>
-          <li><span class="badge">14</span><span class="name">Sterling B.</span></li>
-          <li class="open"><span class="badge">?</span><span class="name">Catcher / pitcher — recruiting</span></li>
-          <li class="open"><span class="badge">?</span><span class="name">Pitcher / fielder — recruiting</span></li>
+          <li><span class="badge">5</span><span class="name">Luke N.</span><span class="pos">First base</span></li>
+          <li><span class="badge">3</span><span class="name">Cade G.</span><span class="pos">Shortstop</span></li>
+          <li><span class="badge">17</span><span class="name">Colton K.</span><span class="pos">First base</span></li>
+          <li><span class="badge">8</span><span class="name">Jameson L.</span><span class="pos">Second base</span></li>
+          <li><span class="badge">4</span><span class="name">Knox P.</span><span class="pos">Third base</span></li>
+          <li><span class="badge">16</span><span class="name">Parker T.</span><span class="pos">Center field</span></li>
+          <li><span class="badge">23</span><span class="name">Rhett R.</span><span class="pos">Left field</span></li>
+          <li><span class="badge">1</span><span class="name">Ryder L.</span><span class="pos">Shortstop</span></li>
+          <li><span class="badge">14</span><span class="name">Sterling B.</span><span class="pos">Catcher</span></li>
+          <li class="open"><span class="badge">?</span><span class="name">Recruiting</span><span class="pos">Catcher / pitcher</span></li>
+          <li class="open"><span class="badge">?</span><span class="name">Recruiting</span><span class="pos">Pitcher / outfielder</span></li>
         </ul>
         <div class="need">Core group returning from the 9U season. Two targeted adds
         round out the pitching and catching depth.</div>
@@ -639,9 +652,9 @@ a { color: inherit; }
         <h3>Gray Roster</h3>
         <div class="count">3 committed · 8 open spots</div>
         <ul class="players">
-          <li><span class="badge">9</span><span class="name">Jameson W.</span></li>
-          <li><span class="badge">12</span><span class="name">Dean T.</span></li>
-          <li><span class="badge">·</span><span class="name">Nick B. <small>(new)</small></span></li>
+          <li><span class="badge">9</span><span class="name">Jameson W.</span><span class="pos">First base</span></li>
+          <li><span class="badge">12</span><span class="name">Dean T.</span><span class="pos">Center field</span></li>
+          <li><span class="badge">·</span><span class="name">Nick B. <small>(new)</small></span><span class="pos">Shortstop</span></li>
           <li class="open"><span class="badge">?</span><span class="name">8 roster spots open — recruiting</span></li>
         </ul>
         <div class="need">The growth roster: three committed players and eight open
@@ -684,7 +697,7 @@ a { color: inherit; }
       </div>
     </div>
     <ul class="covers">
-      <li>The $225 covers two field practices a week and four cage sessions a month.</li>
+      <li>The $225 covers three practices a week: Tuesday and Thursday on the field, Wednesday in the cages.</li>
       <li>Coaches' kids are exempt from the practice fee because coaches run the practices.</li>
     </ul>
   </div>
@@ -718,7 +731,7 @@ a { color: inherit; }
     <h2>What we need to lock in</h2>
     <div style="height: 14px;"></div>
     <ul class="asks">
-      <li><span class="tick">01</span><span>Recruit <strong>2 players for Navy</strong> (catcher/pitcher + pitcher/fielder) and <strong>8 for Gray</strong>.</span></li>
+      <li><span class="tick">01</span><span>Recruit <strong>2 players for Navy</strong> (catcher/pitcher + pitcher/outfielder) and <strong>8 for Gray</strong>.</span></li>
       <li><span class="tick">02</span><span>Finalize the <strong>down payment</strong> amount and what it covers.</span></li>
       <li><span class="tick">03</span><span>Confirm <strong>tournament dates</strong> and build the Navy/Gray weekend rotation around them.</span></li>
       <li><span class="tick">04</span><span>Confirm the <strong>coach list</strong> (the budget assumes ~5 practice-fee-exempt coach kids).</span></li>

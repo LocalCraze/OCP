@@ -2,7 +2,7 @@
 
 ## 9U Season Roster (completed season)
 
-Source: TeamSnap-style app screenshots, "OC Premier 9U".
+Source: team app screenshots, "OC Premier 9U".
 
 | # | Player | Fall 2026 status |
 |---|---|---|
@@ -21,19 +21,33 @@ Source: TeamSnap-style app screenshots, "OC Premier 9U".
 
 ## Fall 2026 — Navy Roster (9 of 11)
 
-Luke N. (5), Cade G. (3), Colton K. (17), Jameson L. (8), Knox P. (4),
-Parker T. (16), Rhett R. (23), Ryder L. (1), Sterling B. (14)
+| # | Player | Position |
+|---|---|---|
+| 5 | Luke N. | First base |
+| 3 | Cade G. | Shortstop |
+| 17 | Colton K. | First base |
+| 8 | Jameson L. | Second base |
+| 4 | Knox P. | Third base |
+| 16 | Parker T. | Center field |
+| 23 | Rhett R. | Left field |
+| 1 | Ryder L. | Shortstop |
+| 14 | Sterling B. | Catcher |
 
 **Recruiting needs (+2):**
 - 1× catcher/pitcher
-- 1× pitcher/fielder
+- 1× pitcher/outfielder
 
 ## Fall 2026 — Gray Roster (3 of 11)
 
-Jameson W. (9), Dean T. (12), Nick B. (new player)
+| # | Player | Position |
+|---|---|---|
+| 9 | Jameson W. | First base |
+| 12 | Dean T. | Center field |
+| — | Nick B. (new) | Shortstop |
 
 **Recruiting needs: +8 players** to reach 11.
 
 ## Position & Lineup Notes
 
-<!-- Depth chart, batting order ideas, pitching rotation, catcher rotation, etc. -->
+- Wednesday cage practices run in **batting groups** — players are assigned
+  to a group, and each group has a set time slot.

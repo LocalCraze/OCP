@@ -4,8 +4,8 @@
 
 - Navy and Gray rosters alternate tournament weekends (~2 tournaments per
   month per roster). Tournament dates TBD — Eric is providing them.
-- Practices (all 22 players together): 2 field practices per week +
-  4 cage sessions per month.
+- Practices (all 22 players together): three per week — two on the field,
+  one in the cages for batting.
 
 ## Games
 
@@ -25,5 +25,5 @@ Tue, Aug 18). All 22 players practice together.
 | Day | Time | What | Where |
 |---|---|---|---|
 | Tuesday | 5:00 PM | Field practice | Brea High School — JB Softball Field |
-| Wednesday | TBD | Batting / cage work | Mr. Cages, Placentia |
+| Wednesday | By batting group (assigned times) | Batting / cage work | Mr. Cages, Placentia |
 | Thursday | 5:00 PM | Field practice | Brea High School — JB Softball Field |
